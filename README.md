@@ -1,0 +1,2 @@
+# Personal-Loan-Acceptance-Prediction-using-Decision-Tree
+project focuses on predicting whether a bank customer will accept a personal loan offer using a Machine Learning classification model. The model is trained using the Decision Tree Classifier from Scikit-Learn.  The goal of this project is to analyze customer demographic and financial information and determine the likelihood of loan acceptance.
